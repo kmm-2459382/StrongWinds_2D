@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a15cd3f0474192d4194c9691717d8790
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameStartBGM: {fileID: 8300000, guid: e7ec43a60b0c214439bbb8f3027342f6, type: 3}
+  - gameBGM: {fileID: 8300000, guid: e7ec43a60b0c214439bbb8f3027342f6, type: 3}
+  - gameOverBGM: {fileID: 8300000, guid: e7ec43a60b0c214439bbb8f3027342f6, type: 3}
+  - gameClearBGM: {fileID: 8300000, guid: e7ec43a60b0c214439bbb8f3027342f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
